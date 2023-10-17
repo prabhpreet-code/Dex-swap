@@ -1,0 +1,14 @@
+server.js is the main file to start the backend project 
+src folder all the backend js files in it.
+routes folder- consist of all the routes
+controllers folder- consist of all the member function
+
+API flow
+
+/api/tokenPrice [get] --  get token prices of addresses
+
+/api/swap [get] -- get swap data
+/api/swap/approve [get] -- get approve data
+/api/swap/allowance [get] -- get allowance data
+/api/swap/quote [get] -- get quote data
+
